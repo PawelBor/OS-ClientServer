@@ -19,6 +19,4 @@ COmmands
 list - lists all files in directory
 mkdir - creates new file in directory
 
-moving to different directories is not done, sending/downloading is not done
-
-In general, it was very difficult assignment for me, especially the lack of time as I had to work a lot and other project on my mind too.
+Switching dir/upload/download in progress
